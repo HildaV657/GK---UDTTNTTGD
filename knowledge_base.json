@@ -1,0 +1,472 @@
+{
+  "questions": [
+    {
+      "question": "xin chào",
+      "answer": "Xin chào! Mình là Bot học tiếng Anh của bạn 😊\nMình có thể giúp bạn học ngữ pháp, từ vựng và nhiều hơn nữa!\nBạn muốn học gì hôm nay?"
+    },
+    {
+      "question": "hello",
+      "answer": "Hello! Mình là trợ lý học tiếng Anh của bạn 😊\nHãy hỏi mình bất cứ điều gì về tiếng Anh nhé!"
+    },
+    {
+      "question": "bạn có thể làm gì",
+      "answer": "Mình có thể giúp bạn:\n📚 Giải thích 12 thì trong tiếng Anh\n🔤 Giải thích từ vựng theo chủ đề\n✏️ Phân biệt các cấu trúc dễ nhầm\n💬 Câu bị động, điều kiện, quan hệ\n🗣️ Kỹ năng giao tiếp thực tế\n🎯 Mẹo học và thi tiếng Anh\n\nHãy thử hỏi mình bất kỳ điều gì nhé!"
+    },
+    {
+      "question": "thì hiện tại đơn là gì",
+      "answer": "Thì Hiện Tại Đơn (Present Simple)\n\nCấu trúc:\n• Khẳng định: S + V(s/es)\n• Phủ định: S + do/does + not + V\n• Nghi vấn: Do/Does + S + V?\n\nDùng khi:\n• Thói quen, sự thật hiển nhiên\n• Lịch trình cố định\n\nVí dụ:\n• I study English every day.\n• The sun rises in the east.\n• She doesn't like coffee.\n\n💡 Mẹo: Thêm S/ES vào động từ khi chủ ngữ là he/she/it!"
+    },
+    {
+      "question": "thì hiện tại tiếp diễn là gì",
+      "answer": "Thì Hiện Tại Tiếp Diễn (Present Continuous)\n\nCấu trúc: am/is/are + V-ing\n\nDùng khi:\n• Hành động đang xảy ra ngay lúc nói\n• Kế hoạch đã sắp xếp trong tương lai gần\n\nVí dụ:\n• I am studying English now.\n• She is cooking dinner.\n• We are meeting tomorrow.\n\n💡 Mẹo: Hay đi kèm với now, at the moment, right now!"
+    },
+    {
+      "question": "thì hiện tại hoàn thành là gì",
+      "answer": "Thì Hiện Tại Hoàn Thành (Present Perfect)\n\nCấu trúc: have/has + V3 (quá khứ phân từ)\n\nDùng khi:\n• Hành động xảy ra trong quá khứ, còn ảnh hưởng đến hiện tại\n• Kinh nghiệm đã từng có\n\nVí dụ:\n• I have studied English for 3 years.\n• She has just finished her homework.\n\n💡 Mẹo: Hay đi kèm với already, just, yet, ever, never!"
+    },
+    {
+      "question": "thế nào là thì hiện tại hoàn thành",
+      "answer": "Thì Hiện Tại Hoàn Thành (Present Perfect)\n\nCấu trúc: have/has + V3 (quá khứ phân từ)\n\nDùng khi:\n• Hành động xảy ra trong quá khứ, còn ảnh hưởng đến hiện tại\n• Kinh nghiệm đã từng có\n\nVí dụ:\n• I have studied English for 3 years.\n• She has just finished her homework.\n\n💡 Mẹo: Hay đi kèm với already, just, yet, ever, never!"
+    },
+    {
+      "question": "thì hiện tại hoàn thành tiếp diễn là gì",
+      "answer": "Thì Hiện Tại Hoàn Thành Tiếp Diễn (Present Perfect Continuous)\n\nCấu trúc: have/has + been + V-ing\n\nDùng khi:\n• Hành động bắt đầu trong quá khứ, vẫn đang tiếp diễn\n• Nhấn mạnh tính liên tục của hành động\n\nVí dụ:\n• I have been studying for 3 hours. (vẫn đang học)\n• She has been working here since 2020.\n• It has been raining all day.\n\n💡 So sánh:\n• Present Perfect: I have studied 5 chapters. (kết quả)\n• Present Perfect Continuous: I have been studying all day. (quá trình)"
+    },
+    {
+      "question": "thì quá khứ đơn là gì",
+      "answer": "Thì Quá Khứ Đơn (Past Simple)\n\nCấu trúc: V2 (động từ chia dạng quá khứ)\n\nDùng khi: Hành động đã hoàn toàn kết thúc trong quá khứ\n\nVí dụ:\n• I went to school yesterday.\n• She studied hard last night.\n\n💡 Mẹo: Hay đi kèm với yesterday, last week, ago, in 2020!"
+    },
+    {
+      "question": "thì quá khứ tiếp diễn là gì",
+      "answer": "Thì Quá Khứ Tiếp Diễn (Past Continuous)\n\nCấu trúc: was/were + V-ing\n\nDùng khi:\n• Hành động đang xảy ra tại một thời điểm trong quá khứ\n• Hành động đang diễn ra thì bị gián đoạn\n\nVí dụ:\n• I was sleeping at 10pm last night.\n• She was cooking when I called.\n\n💡 Mẹo: Hành động dài (Past Continuous) bị cắt ngang bởi hành động ngắn (Past Simple)!"
+    },
+    {
+      "question": "thì quá khứ hoàn thành là gì",
+      "answer": "Thì Quá Khứ Hoàn Thành (Past Perfect)\n\nCấu trúc: had + V3\n\nDùng khi: Hành động xảy ra TRƯỚC một hành động khác trong quá khứ\n\nVí dụ:\n• When I arrived, she had already left.\n• He had finished dinner before I came home.\n• I had never seen snow before I went to Japan.\n\n💡 Mẹo: Dùng Past Perfect cho hành động xảy ra TRƯỚC, Past Simple cho hành động xảy ra SAU trong quá khứ!"
+    },
+    {
+      "question": "thì quá khứ hoàn thành tiếp diễn là gì",
+      "answer": "Thì Quá Khứ Hoàn Thành Tiếp Diễn (Past Perfect Continuous)\n\nCấu trúc: had + been + V-ing\n\nDùng khi: Hành động đang diễn ra liên tục trong quá khứ, trước một hành động khác cũng trong quá khứ\n\nVí dụ:\n• She had been crying for an hour when he arrived.\n• I had been waiting for 30 minutes before the bus came.\n• They had been working all night before they finished.\n\n💡 Mẹo: Nhấn mạnh THỜI GIAN và TÍNH LIÊN TỤC của hành động trong quá khứ!"
+    },
+    {
+      "question": "thì tương lai đơn là gì",
+      "answer": "Thì Tương Lai Đơn (Future Simple)\n\nCấu trúc: will + V nguyên thể\n\nDùng khi:\n• Quyết định tức thời ngay lúc nói\n• Dự đoán không chắc chắn\n• Lời hứa, đề nghị\n\nVí dụ:\n• I will call you tomorrow.\n• It will rain tonight, I think.\n• I'll help you with that.\n\n💡 Mẹo: Dùng 'be going to' cho kế hoạch đã chuẩn bị, 'will' cho quyết định tức thì!"
+    },
+    {
+      "question": "thì tương lai tiếp diễn là gì",
+      "answer": "Thì Tương Lai Tiếp Diễn (Future Continuous)\n\nCấu trúc: will + be + V-ing\n\nDùng khi:\n• Hành động sẽ đang xảy ra tại một thời điểm trong tương lai\n• Hành động sẽ diễn ra theo lịch trình bình thường\n\nVí dụ:\n• At 8pm tonight, I will be studying.\n• This time next week, she will be flying to Paris.\n• Don't call at noon — I'll be having a meeting.\n\n💡 Mẹo: Hay đi kèm với 'at this time tomorrow', 'this time next week'!"
+    },
+    {
+      "question": "thì tương lai hoàn thành là gì",
+      "answer": "Thì Tương Lai Hoàn Thành (Future Perfect)\n\nCấu trúc: will + have + V3\n\nDùng khi: Hành động sẽ hoàn thành TRƯỚC một thời điểm trong tương lai\n\nVí dụ:\n• By next year, I will have graduated.\n• By 10pm, she will have finished cooking.\n• By the time you arrive, I will have left.\n\n💡 Mẹo: Hay đi kèm với 'by + thời gian tương lai' (by tomorrow, by next month)!"
+    },
+    {
+      "question": "be going to dùng khi nào",
+      "answer": "Be Going To\n\nCấu trúc: am/is/are + going to + V\n\nDùng khi:\n• Kế hoạch đã được quyết định từ trước\n• Dự đoán dựa trên bằng chứng rõ ràng\n\nVí dụ:\n• I am going to study abroad next year. (đã lên kế hoạch)\n• Look at those clouds! It is going to rain. (có bằng chứng)\n\n💡 So sánh:\n• Will: quyết định tức thì\n• Going to: kế hoạch đã sắp xếp"
+    },
+    {
+      "question": "sự khác nhau giữa since và for",
+      "answer": "SINCE vs FOR\n\n• SINCE + mốc thời gian cụ thể\n  → since 2020, since Monday, since morning\n\n• FOR + khoảng thời gian\n  → for 3 years, for a week, for 2 hours\n\nVí dụ:\n• I have lived here FOR 5 years.\n• I have lived here SINCE 2019.\n\n💡 Mẹo: Since = điểm bắt đầu, For = khoảng thời gian!"
+    },
+    {
+      "question": "so sánh since và for",
+      "answer": "SINCE vs FOR\n\n• SINCE + mốc thời gian cụ thể\n  → since 2020, since Monday, since morning\n\n• FOR + khoảng thời gian\n  → for 3 years, for a week, for 2 hours\n\nVí dụ:\n• I have lived here FOR 5 years.\n• I have lived here SINCE 2019.\n\n💡 Mẹo: Since = điểm bắt đầu, For = khoảng thời gian!"
+    },
+    {
+      "question": "câu bị động là gì",
+      "answer": "Câu Bị Động (Passive Voice)\n\nCấu trúc: Subject + be + V3 (+ by + tân ngữ)\n\nSo sánh:\n• Chủ động: Tom eats the cake.\n• Bị động:   The cake IS EATEN by Tom.\n\nDùng khi:\n• Không biết ai thực hiện hành động\n• Muốn nhấn mạnh vào đối tượng bị tác động\n\nVí dụ:\n• The letter was written yesterday.\n• English is spoken all over the world.\n\n💡 Mẹo: Nhớ chia 'be' theo thì của câu gốc!"
+    },
+    {
+      "question": "câu điều kiện loại 1 là gì",
+      "answer": "Câu Điều Kiện Loại 1 (Type 1)\n\nCấu trúc: If + Present Simple, will + V\n\nDùng khi: Điều kiện CÓ THỂ xảy ra trong tương lai\n\nVí dụ:\n• If it rains, I will stay home.\n• If you study hard, you will pass the exam.\n\n💡 Mẹo: Loại 1 = có thật, có thể xảy ra. Mệnh đề IF chia thì hiện tại, mệnh đề chính dùng will!"
+    },
+    {
+      "question": "câu điều kiện loại 2 là gì",
+      "answer": "Câu Điều Kiện Loại 2 (Type 2)\n\nCấu trúc: If + Past Simple, would + V\n\nDùng khi: Điều kiện KHÔNG CÓ THẬT ở hiện tại / giả định\n\nVí dụ:\n• If I had money, I would travel the world.\n• If she were taller, she would be a model.\n• If I were you, I would apologize.\n\n💡 Mẹo: Loại 2 = giả định, không có thật. Hay dùng 'were' thay cho 'was' trong văn viết!"
+    },
+    {
+      "question": "câu điều kiện loại 3 là gì",
+      "answer": "Câu Điều Kiện Loại 3 (Type 3)\n\nCấu trúc: If + Past Perfect, would have + V3\n\nDùng khi: Điều kiện KHÔNG CÓ THẬT trong quá khứ (nuối tiếc)\n\nVí dụ:\n• If I had studied harder, I would have passed.\n• If she had left earlier, she wouldn't have missed the bus.\n\n💡 Mẹo: Loại 3 = tiếc nuối quá khứ — điều đã không xảy ra!"
+    },
+    {
+      "question": "câu điều kiện loại 0 là gì",
+      "answer": "Câu Điều Kiện Loại 0 (Type 0)\n\nCấu trúc: If + Present Simple, Present Simple\n\nDùng khi: Sự thật hiển nhiên, quy luật tự nhiên, thói quen\n\nVí dụ:\n• If you heat water to 100°C, it boils.\n• If it rains, the ground gets wet.\n• If I don't sleep enough, I feel tired.\n\n💡 Mẹo: Loại 0 = luôn luôn đúng, không phụ thuộc thời gian! Có thể thay 'if' bằng 'when'."
+    },
+    {
+      "question": "cách dùng mạo từ a an the",
+      "answer": "Mạo Từ: A / AN / THE\n\n• A/AN: Dùng lần đầu nhắc đến, danh từ đếm được số ít\n  - A: trước phụ âm → a cat, a book\n  - AN: trước nguyên âm → an apple, an hour\n\n• THE: Dùng khi đã biết vật nào, hoặc duy nhất trên đời\n\nVí dụ:\n• I saw A dog. THE dog was cute.\n• THE sun rises in the east.\n\n💡 Mẹo: Không dùng THE với tên riêng và danh từ chung số nhiều!"
+    },
+    {
+      "question": "cách dùng a an the",
+      "answer": "Mạo Từ: A / AN / THE\n\n• A/AN: Dùng lần đầu nhắc đến, danh từ đếm được số ít\n  - A: trước phụ âm → a cat, a book\n  - AN: trước nguyên âm → an apple, an hour\n\n• THE: Dùng khi đã biết vật nào, hoặc duy nhất trên đời\n\nVí dụ:\n• I saw A dog. THE dog was cute.\n• THE sun rises in the east.\n\n💡 Mẹo: Không dùng THE với tên riêng và danh từ chung số nhiều!"
+    },
+    {
+      "question": "so sánh hơn và so sánh nhất",
+      "answer": "So Sánh Trong Tiếng Anh\n\nSO SÁNH HƠN: tính từ + ER / more + tính từ\nSO SÁNH NHẤT: the + tính từ + EST / the most + tính từ\n\nQuy tắc:\n• Tính từ ngắn (1-2 âm tiết): + ER / EST\n• Tính từ dài (3+ âm tiết): more / the most\n\nVí dụ:\n• He is TALLER than me.\n• She is THE TALLEST in class.\n• This is MORE EXPENSIVE than that.\n\n💡 Mẹo: Ngoại lệ: good → better → the best | bad → worse → the worst!"
+    },
+    {
+      "question": "so sánh bằng nhau",
+      "answer": "So Sánh Bằng (Equality)\n\nCấu trúc: as + tính từ/trạng từ + as\n\nKhẳng định: S + V + as + adj + as + N\nPhủ định: S + V + not as/so + adj + as + N\n\nVí dụ:\n• She is AS tall AS her sister.\n• This book is AS interesting AS that one.\n• He doesn't run AS fast AS me.\n• It's not SO expensive AS I thought.\n\n💡 Mẹo: Phủ định dùng được cả 'not as...as' và 'not so...as'!"
+    },
+    {
+      "question": "cách phát âm đuôi ed",
+      "answer": "Cách Phát Âm Đuôi -ED\n\nĐuôi -ED có 3 cách đọc:\n\n1. Đọc là /t/ → Sau âm vô thanh: p, k, f, s, ch, sh\n   Ví dụ: stopped, walked, laughed\n\n2. Đọc là /d/ → Sau âm hữu thanh và nguyên âm\n   Ví dụ: played, lived, called\n\n3. Đọc là /ɪd/ → Sau âm /t/ hoặc /d/\n   Ví dụ: wanted, needed, started\n\n💡 Mẹo: Chỉ đọc /ɪd/ khi động từ kết thúc bằng T hoặc D!"
+    },
+    {
+      "question": "thành ngữ tiếng anh thông dụng",
+      "answer": "5 Thành Ngữ Tiếng Anh Thông Dụng\n\n1. Break a leg 🦵 → Chúc may mắn!\n2. Hit the books 📚 → Bắt đầu ngồi học bài\n3. Under the weather 🤒 → Đang bị ốm\n4. Piece of cake 🍰 → Dễ như ăn bánh\n5. Cost an arm and a leg 💸 → Rất đắt tiền\n\n💡 Mẹo: Học thành ngữ theo chủ đề để nhớ lâu hơn!"
+    },
+    {
+      "question": "cải thiện kỹ năng nói tiếng anh",
+      "answer": "Cách Cải Thiện Kỹ Năng Nói Tiếng Anh\n\n1. Shadowing 🎧 → Nghe và nhái theo người bản ngữ\n2. Độc thoại hằng ngày 🗣️ → Nói to 1 mình\n3. Xem phim không phụ đề 🎬\n4. Ghi âm và nghe lại 🎙️\n5. Luyện với AI hoặc bạn bè 🤝\n\n💡 Mẹo: Đừng sợ sai — cứ nói nhiều là tiến bộ!"
+    },
+    {
+      "question": "phân biệt do và make",
+      "answer": "Phân Biệt DO và MAKE\n\nDO — hoạt động, công việc, nhiệm vụ:\n• do homework — làm bài tập\n• do the dishes — rửa bát\n• do exercise — tập thể dục\n\nMAKE — tạo ra, sản xuất:\n• make a cake — làm bánh\n• make a decision — đưa ra quyết định\n• make a mistake — mắc lỗi\n• make money — kiếm tiền\n\n💡 Mẹo: DO = thực hiện hành động, MAKE = tạo ra kết quả!"
+    },
+    {
+      "question": "phân biệt say và tell",
+      "answer": "Phân Biệt SAY và TELL\n\nSAY — nói, phát ngôn (không cần tân ngữ người):\n• She said 'hello'.\n• He said that he was tired.\n\nTELL — nói với ai đó (cần tân ngữ người):\n• She told me the truth.\n• He told her to wait.\n• Tell me a story.\n\n💡 Mẹo: TELL luôn cần có người nghe (tell someone), SAY thì không bắt buộc!"
+    },
+    {
+      "question": "phân biệt look see watch",
+      "answer": "Phân Biệt LOOK / SEE / WATCH\n\nSEE — nhìn thấy tự nhiên, không chủ ý:\n• I can see the mountains from here.\n\nLOOK — nhìn có chủ ý vào một điểm:\n• Look at the board!\n• She's looking out the window.\n\nWATCH — theo dõi thứ đang chuyển động:\n• I watch TV every evening.\n• He's watching the football match.\n\n💡 Mẹo: See = vô tình thấy, Look = nhìn vào, Watch = theo dõi!"
+    },
+    {
+      "question": "phân biệt hear và listen",
+      "answer": "Phân Biệt HEAR và LISTEN\n\nHEAR — nghe thấy tự nhiên, không chủ ý:\n• I heard a strange noise outside.\n• Can you hear me?\n• I heard she got married.\n\nLISTEN — nghe có chủ ý, tập trung:\n• Please listen carefully.\n• I listen to music every morning.\n• She was listening to the radio.\n\n💡 Mẹo: Hear = vô tình nghe thấy, Listen = chủ động lắng nghe!\nGiống như See/Look: See = vô tình, Look = chủ ý!"
+    },
+    {
+      "question": "phân biệt bring và take",
+      "answer": "Phân Biệt BRING và TAKE\n\nBRING — mang đến (hướng về phía người nói):\n• Bring me a glass of water. (mang đến chỗ tôi)\n• She brought flowers to the party.\n• Can you bring your notes to class?\n\nTAKE — mang đi (rời xa người nói):\n• Take your umbrella. (mang theo khi đi)\n• He took the book to the library.\n• Don't forget to take your ID.\n\n💡 Mẹo: BRING = mang ĐẾN (come here + bring), TAKE = mang ĐI (go there + take)!"
+    },
+    {
+      "question": "phân biệt lend và borrow",
+      "answer": "Phân Biệt LEND và BORROW\n\nLEND — cho mượn (từ người có đồ):\n• Can you lend me your pen?\n• She lent him $100.\n• I'll lend you my car.\n\nBORROW — mượn (người cần đồ):\n• Can I borrow your pen?\n• He borrowed $100 from her.\n• I borrowed a book from the library.\n\n💡 Mẹo:\n• LEND: tôi → bạn (tôi cho bạn mượn)\n• BORROW: bạn → tôi (tôi mượn từ bạn)"
+    },
+    {
+      "question": "danh động từ và động từ nguyên thể",
+      "answer": "Danh Động Từ (Gerund) vs Động Từ Nguyên Thể (Infinitive)\n\nGERUND (V-ing) — sau: enjoy, finish, avoid, suggest, mind, keep\n→ I enjoy reading books.\n→ She avoids eating junk food.\n\nINFINITIVE (to + V) — sau: want, need, hope, decide, plan, forget\n→ I want to learn English.\n→ He decided to leave early.\n\nCả hai đều được — like, love, hate, start, begin:\n→ I like reading / I like to read.\n\n💡 Mẹo: Học thuộc nhóm động từ đi với Gerund hay Infinitive!"
+    },
+    {
+      "question": "mệnh đề quan hệ là gì",
+      "answer": "Mệnh Đề Quan Hệ (Relative Clauses)\n\n• WHO → chỉ người\n  The girl WHO lives next door is nice.\n\n• WHICH → chỉ vật, con vật\n  The book WHICH I bought is great.\n\n• THAT → chỉ người hoặc vật\n  The car THAT I drive is old.\n\n• WHOSE → chỉ sở hữu\n  The boy WHOSE bag is red is my friend.\n\n• WHERE → chỉ nơi chốn\n  The city WHERE I was born is Hanoi.\n\n💡 Mẹo: WHO = người, WHICH = vật, THAT = cả hai!"
+    },
+    {
+      "question": "mệnh đề quan hệ xác định và không xác định",
+      "answer": "Mệnh Đề Quan Hệ Xác Định vs Không Xác Định\n\nXÁC ĐỊNH (Defining) — không có dấu phẩy:\n→ Bỏ đi câu mất nghĩa chính\n• The man WHO called you is my uncle.\n• The book THAT I bought was expensive.\n\nKHÔNG XÁC ĐỊNH (Non-defining) — có dấu phẩy:\n→ Bỏ đi câu vẫn còn nghĩa, chỉ thêm thông tin\n• My brother, WHO lives in Hanoi, is a doctor.\n• This book, WHICH I bought yesterday, is great.\n\n💡 Mẹo: Không dùng THAT trong mệnh đề quan hệ không xác định!"
+    },
+    {
+      "question": "cách dùng some và any",
+      "answer": "Phân Biệt SOME và ANY\n\nSOME:\n• Câu khẳng định: I have some money.\n• Câu hỏi mời/yêu cầu: Can I have some water?\n\nANY:\n• Câu phủ định: I don't have any friends here.\n• Câu hỏi thông thường: Do you have any questions?\n\nVí dụ:\n• There are SOME apples on the table.\n• Are there ANY apples left?\n• Would you like SOME cake? (mời)\n\n💡 Mẹo: Some = có (khẳng định), Any = không/có không? (phủ định/hỏi)!"
+    },
+    {
+      "question": "giới từ chỉ thời gian at in on",
+      "answer": "Giới Từ Chỉ Thời Gian: AT / IN / ON\n\nAT — thời điểm cụ thể, giờ:\n• at 7 o'clock, at noon, at night\n\nIN — tháng, năm, mùa, buổi:\n• in January, in 2024, in summer\n• in the morning / afternoon / evening\n\nON — ngày, thứ, ngày đặc biệt:\n• on Monday, on March 17, on Christmas Day\n\nVí dụ:\n• I wake up AT 6am.\n• My birthday is IN March.\n• We have class ON Monday.\n\n💡 Mẹo: AT (nhỏ nhất - giờ) → ON (ngày) → IN (lớn nhất - tháng/năm)!"
+    },
+    {
+      "question": "giới từ chỉ nơi chốn at in on",
+      "answer": "Giới Từ Chỉ Nơi Chốn: AT / IN / ON\n\nAT — địa điểm cụ thể:\n• at the bus stop, at school, at home\n\nIN — không gian 3 chiều, khu vực:\n• in the room, in Hanoi, in Vietnam\n\nON — bề mặt:\n• on the table, on the wall, on the floor\n\nVí dụ:\n• She is AT the office.\n• The cat is IN the box.\n• The book is ON the shelf.\n\n💡 Mẹo: IN = bên trong, ON = bề mặt, AT = tại điểm đó!"
+    },
+    {
+      "question": "giới từ chỉ chuyển động",
+      "answer": "Giới Từ Chỉ Chuyển Động (Prepositions of Movement)\n\n• TO → hướng đến đích: go TO school, travel TO Paris\n• INTO → vào bên trong: walk INTO the room\n• ONTO → lên trên bề mặt: jump ONTO the table\n• OUT OF → ra khỏi: get OUT OF the car\n• THROUGH → xuyên qua: walk THROUGH the forest\n• ALONG → dọc theo: walk ALONG the street\n• ACROSS → băng qua: swim ACROSS the river\n• PAST → đi ngang qua: walk PAST the school\n• TOWARDS → về phía: walk TOWARDS the station\n\n💡 Mẹo: Các giới từ chuyển động thường đi sau động từ di chuyển!"
+    },
+    {
+      "question": "động từ khiếm khuyết là gì",
+      "answer": "Động Từ Khiếm Khuyết (Modal Verbs)\n\n• CAN/COULD — khả năng, xin phép\n  I can swim. / Could you help me?\n\n• MUST — bắt buộc, chắc chắn\n  You must wear a seatbelt.\n\n• SHOULD — nên, lời khuyên\n  You should see a doctor.\n\n• MAY/MIGHT — có thể (không chắc)\n  It may rain tomorrow.\n\n• WILL/WOULD — tương lai, lịch sự\n  Would you like some tea?\n\n💡 Mẹo: Sau modal verb luôn dùng động từ NGUYÊN THỂ (không TO, không S/ES)!"
+    },
+    {
+      "question": "phân biệt must và have to",
+      "answer": "Phân Biệt MUST và HAVE TO\n\nMUST — bắt buộc từ NGƯỜI NÓI (cảm giác cá nhân):\n• I must study harder. (tự thấy cần)\n• You must try this food! (mạnh mẽ khuyên)\n• This must be the answer. (suy luận chắc chắn)\n\nHAVE TO — bắt buộc từ BÊN NGOÀI (quy tắc, luật lệ):\n• You have to wear a helmet. (luật giao thông)\n• I have to go to work tomorrow. (lịch trình)\n• Students have to wear uniforms.\n\n💡 Mẹo:\n• MUST NOT = cấm (không được phép)\n• DON'T HAVE TO = không bắt buộc (tùy ý)"
+    },
+    {
+      "question": "phân biệt can could may might",
+      "answer": "Phân Biệt CAN / COULD / MAY / MIGHT\n\nCAN:\n• Khả năng hiện tại: I can speak English.\n• Xin phép thân mật: Can I use your phone?\n\nCOULD:\n• Khả năng trong quá khứ: She could swim at age 5.\n• Xin phép lịch sự hơn: Could I borrow your pen?\n• Khả năng không chắc: It could rain tomorrow.\n\nMAY:\n• Xin phép trang trọng: May I come in?\n• Khả năng 50%: It may rain.\n\nMIGHT:\n• Khả năng thấp hơn (<50%): It might rain, but I doubt it.\n\n💡 Mẹo: Could/May/Might lịch sự hơn Can!"
+    },
+    {
+      "question": "cách hỏi đường bằng tiếng anh",
+      "answer": "Cách Hỏi và Chỉ Đường Bằng Tiếng Anh\n\nHỎI ĐƯỜNG:\n• Excuse me, where is the nearest bank?\n• How do I get to the train station?\n• Can you tell me the way to the hospital?\n\nTRẢ LỜI:\n• Go straight ahead. — Đi thẳng\n• Turn left / right. — Rẽ trái / phải\n• Take the first turning on the left.\n• It's on your left / right.\n• It's about 5 minutes' walk.\n\n💡 Mẹo: Luôn bắt đầu bằng 'Excuse me' để lịch sự!"
+    },
+    {
+      "question": "từ nối trong tiếng anh",
+      "answer": "Từ Nối Thông Dụng (Linking Words)\n\nBỔ SUNG: and, moreover, furthermore, in addition\nĐỐI LẬP: but, however, although, on the other hand\nNGUYÊN NHÂN: because, since, as, due to\nKẾT QUẢ: so, therefore, as a result, consequently\nĐIỀU KIỆN: if, unless, provided that\n\nVí dụ:\n• I was tired. HOWEVER, I kept working.\n• She passed BECAUSE she studied hard.\n• THEREFORE, we must act now.\n\n💡 Mẹo: Dùng từ nối đa dạng sẽ giúp bài viết chuyên nghiệp hơn!"
+    },
+    {
+      "question": "từ vựng chủ đề công việc",
+      "answer": "Từ Vựng Tiếng Anh Chủ Đề Công Việc\n\n• apply for a job — nộp đơn xin việc\n• resume / CV — hồ sơ xin việc\n• interview — phỏng vấn\n• salary — lương\n• promotion — thăng chức\n• deadline — hạn chót\n• colleague — đồng nghiệp\n• manager / boss — quản lý / sếp\n• resign — từ chức\n• retire — nghỉ hưu\n• remote work — làm việc từ xa\n• full-time / part-time — toàn thời gian / bán thời gian\n\n💡 Mẹo: Học từ vựng theo nhóm chủ đề giúp nhớ lâu hơn!"
+    },
+    {
+      "question": "từ vựng chủ đề du lịch",
+      "answer": "Từ Vựng Tiếng Anh Chủ Đề Du Lịch\n\n• passport — hộ chiếu\n• boarding pass — thẻ lên máy bay\n• check in / check out — nhận/trả phòng\n• departure / arrival — khởi hành / đến nơi\n• customs — hải quan\n• luggage / baggage — hành lý\n• book a hotel — đặt khách sạn\n• one-way ticket — vé một chiều\n• round-trip ticket — vé khứ hồi\n• exchange rate — tỷ giá hối đoái\n• tourist attraction — địa điểm du lịch\n\n💡 Mẹo: Học trước nhóm từ này rất hữu ích khi đi nước ngoài!"
+    },
+    {
+      "question": "từ vựng chủ đề sức khỏe",
+      "answer": "Từ Vựng Tiếng Anh Chủ Đề Sức Khỏe\n\n• headache — đau đầu\n• fever — sốt\n• cough — ho\n• cold — cảm lạnh\n• stomachache — đau bụng\n• prescription — đơn thuốc\n• pharmacy — nhà thuốc\n• symptom — triệu chứng\n• surgeon — bác sĩ phẫu thuật\n• blood pressure — huyết áp\n• allergy — dị ứng\n• emergency — cấp cứu\n• vaccination — tiêm chủng\n• recovery — hồi phục\n\n💡 Mẹo: Biết từ vựng y tế rất quan trọng khi đi nước ngoài!"
+    },
+    {
+      "question": "từ vựng chủ đề giáo dục",
+      "answer": "Từ Vựng Tiếng Anh Chủ Đề Giáo Dục\n\n• tuition fee — học phí\n• scholarship — học bổng\n• graduate — tốt nghiệp\n• major — chuyên ngành\n• assignment — bài tập về nhà\n• semester — học kỳ\n• lecture — bài giảng\n• campus — khuôn viên trường\n• dormitory — ký túc xá\n• thesis — luận văn\n• curriculum — chương trình học\n• extracurricular — ngoại khóa\n• attendance — điểm danh\n• gpa — điểm trung bình tích lũy\n\n💡 Mẹo: Nhóm từ này rất cần thiết nếu bạn muốn du học!"
+    },
+    {
+      "question": "từ vựng chủ đề công nghệ",
+      "answer": "Từ Vựng Tiếng Anh Chủ Đề Công Nghệ\n\n• software — phần mềm\n• hardware — phần cứng\n• update — cập nhật\n• download / upload — tải xuống / tải lên\n• password — mật khẩu\n• network — mạng lưới\n• artificial intelligence — trí tuệ nhân tạo\n• cloud storage — lưu trữ đám mây\n• cybersecurity — an ninh mạng\n• algorithm — thuật toán\n• bug — lỗi phần mềm\n• interface — giao diện\n• database — cơ sở dữ liệu\n• backup — sao lưu\n\n💡 Mẹo: Công nghệ thông tin là lĩnh vực dùng tiếng Anh nhiều nhất!"
+    },
+    {
+      "question": "từ vựng chủ đề môi trường",
+      "answer": "Từ Vựng Tiếng Anh Chủ Đề Môi Trường\n\n• global warming — nóng lên toàn cầu\n• climate change — biến đổi khí hậu\n• pollution — ô nhiễm\n• renewable energy — năng lượng tái tạo\n• recycle — tái chế\n• deforestation — phá rừng\n• carbon footprint — lượng khí thải carbon\n• ecosystem — hệ sinh thái\n• biodiversity — đa dạng sinh học\n• greenhouse gas — khí nhà kính\n• endangered species — loài có nguy cơ tuyệt chủng\n• sustainable — bền vững\n\n💡 Mẹo: Đây là chủ đề IELTS Writing/Speaking rất phổ biến!"
+    },
+    {
+      "question": "từ vựng chủ đề gia đình",
+      "answer": "Từ Vựng Tiếng Anh Chủ Đề Gia Đình\n\nHỌ HÀNG:\n• grandparents — ông bà\n• uncle / aunt — chú/bác/cậu / cô/dì\n• nephew / niece — cháu trai / cháu gái\n• cousin — anh/chị/em họ\n• in-laws — bố mẹ chồng/vợ\n• stepfather / stepmother — bố/mẹ kế\n\nMÔ TẢ GIA ĐÌNH:\n• nuclear family — gia đình hạt nhân\n• extended family — gia đình đa thế hệ\n• single parent — cha/mẹ đơn thân\n• siblings — anh chị em ruột\n• only child — con một\n\n💡 Mẹo: Tiếng Anh không phân biệt anh/chị/em cùng giới như tiếng Việt!"
+    },
+    {
+      "question": "từ vựng chủ đề thức ăn",
+      "answer": "Từ Vựng Tiếng Anh Chủ Đề Thức Ăn\n\nCÁCH NẤU:\n• boil — luộc\n• fry — chiên\n• grill — nướng\n• steam — hấp\n• bake — nướng lò\n• stir-fry — xào\n\nMÙI VỊ:\n• sweet — ngọt\n• sour — chua\n• salty — mặn\n• bitter — đắng\n• spicy — cay\n• bland — nhạt\n\nTẠI NHÀ HÀNG:\n• menu — thực đơn\n• appetizer — khai vị\n• main course — món chính\n• dessert — tráng miệng\n• bill / check — hóa đơn\n\n💡 Mẹo: 'I'd like...' lịch sự hơn 'I want...' khi gọi món!"
+    },
+    {
+      "question": "phân biệt much many a lot of",
+      "answer": "Phân Biệt MUCH / MANY / A LOT OF\n\nMUCH — danh từ không đếm được (câu phủ định, hỏi):\n• I don't have much time.\n• How much money do you have?\n\nMANY — danh từ đếm được số nhiều (câu phủ định, hỏi):\n• There aren't many students here.\n• How many books do you have?\n\nA LOT OF — cả hai loại danh từ (câu khẳng định):\n• I have a lot of work to do.\n• There are a lot of people here.\n\n💡 Mẹo: A lot of dùng được cho cả hai! Much/many thường dùng trong câu phủ định và câu hỏi!"
+    },
+    {
+      "question": "cách viết email tiếng anh",
+      "answer": "Cách Viết Email Tiếng Anh Chuyên Nghiệp\n\nMỞ ĐẦU:\n• Dear Mr/Ms [Họ],\n• I am writing to...\n• I hope this email finds you well.\n\nNỘI DUNG:\n• I would like to...\n• Could you please...?\n• I am pleased to inform you that...\n\nKẾT THÚC:\n• Please feel free to contact me.\n• I look forward to hearing from you.\n• Best regards, / Sincerely,\n\n💡 Mẹo: Luôn đọc lại email trước khi gửi!"
+    },
+    {
+      "question": "cách phát âm đuôi s",
+      "answer": "Cách Phát Âm Đuôi -S / -ES\n\n1. Đọc là /s/ → Sau âm vô thanh: p, t, k, f, th\n   Ví dụ: cups, cats, books\n\n2. Đọc là /z/ → Sau âm hữu thanh và nguyên âm\n   Ví dụ: dogs, trees, boys\n\n3. Đọc là /ɪz/ → Sau âm s, z, sh, ch, x, ge\n   Ví dụ: buses, watches, boxes\n\n💡 Mẹo: /ɪz/ khi thêm âm 'ít' vào mới dễ đọc hơn!"
+    },
+    {
+      "question": "phrasal verb phổ biến",
+      "answer": "10 Phrasal Verbs Phổ Biến Nhất\n\n1. give up — từ bỏ: Don't give up!\n2. look forward to — mong chờ\n3. find out — tìm hiểu, khám phá\n4. turn on / off — bật / tắt\n5. come up with — nghĩ ra\n6. run out of — hết (cái gì đó)\n7. put off — hoãn lại\n8. get along with — hòa hợp với\n9. break down — hỏng hóc\n10. bring up — nhắc đến; nuôi dưỡng\n\n💡 Mẹo: Học phrasal verb trong câu ví dụ thay vì học đơn lẻ!"
+    },
+    {
+      "question": "phrasal verb với get",
+      "answer": "Phrasal Verbs Với GET\n\n• get up — thức dậy\n• get on (bus/train) — lên (xe)\n• get off — xuống (xe)\n• get along with — hòa hợp với ai\n• get over — vượt qua (khó khăn/bệnh)\n• get rid of — loại bỏ\n• get through — vượt qua, liên lạc được\n• get away — trốn thoát\n• get back — quay trở lại\n• get out of — tránh né, ra khỏi\n• get in touch — liên lạc\n• get used to — quen với\n\n💡 Mẹo: GET là động từ có nhiều phrasal verbs nhất trong tiếng Anh!"
+    },
+    {
+      "question": "phrasal verb với look",
+      "answer": "Phrasal Verbs Với LOOK\n\n• look up — tra cứu (từ điển)\n• look for — tìm kiếm\n• look after — chăm sóc\n• look forward to — mong chờ\n• look into — điều tra, xem xét\n• look out — cẩn thận! (= Watch out!)\n• look down on — coi thường\n• look up to — ngưỡng mộ, kính trọng\n• look back on — nhìn lại quá khứ\n• look through — xem lướt qua\n\nVí dụ:\n• Look up the word in the dictionary.\n• She always looks after her younger siblings.\n• I look forward to seeing you!\n\n💡 Mẹo: look up to (ngưỡng mộ) ≠ look down on (coi thường)!"
+    },
+    {
+      "question": "cách học từ vựng hiệu quả",
+      "answer": "Cách Học Từ Vựng Tiếng Anh Hiệu Quả\n\n1. Học trong ngữ cảnh 📖 → Học cả câu, không học từ đơn lẻ\n2. Spaced Repetition 🔁 → Ôn theo chu kỳ: 1 ngày, 3 ngày, 1 tuần\n3. Dùng từ ngay 💬 → Tự đặt câu với từ mới\n4. Nhóm theo chủ đề 🗂️ → Nhóm 'đồ ăn', 'cảm xúc'...\n5. Dùng flashcard (Anki) 🃏\n6. Xem/nghe tiếng Anh mỗi ngày 🎧\n\n💡 Mẹo: Học 5-10 từ mỗi ngày đều đặn tốt hơn 50 từ/tuần!"
+    },
+    {
+      "question": "mẹo làm bài thi tiếng anh",
+      "answer": "Mẹo Làm Bài Thi Tiếng Anh\n\nĐỌC HIỂU: Đọc câu hỏi TRƯỚC → tìm từ khóa → scan bài\nNGỮ PHÁP: Xác định loại câu hỏi → đọc cả câu → loại trừ đáp án sai\nVIẾT: Lên dàn ý 2-3 phút → dùng từ nối đa dạng → kiểm tra lại\nNGHE: Đọc câu hỏi trước → ghi chú từ khóa → đừng dừng ở từ không hiểu\n\n💡 Mẹo: Luyện tập đề thi cũ là cách chuẩn bị hiệu quả nhất!"
+    },
+    {
+      "question": "cách xin lỗi bằng tiếng anh",
+      "answer": "Cách Xin Lỗi Bằng Tiếng Anh\n\nCƠ BẢN:\n• I'm sorry. — Tôi xin lỗi.\n• I apologize. — Tôi xin thứ lỗi. (trang trọng)\n• Excuse me. — Xin lỗi. (chen ngang / hỏi)\n\nTHÀNH KHẨN:\n• I'm really/terribly sorry.\n• I sincerely apologize for...\n• Please forgive me.\n\nĐÁP LẠI:\n• That's okay / No problem.\n• Don't worry about it.\n• It's alright.\n\n💡 Mẹo: Excuse me = TRƯỚC khi làm phiền, Sorry = SAU khi làm phiền!"
+    },
+    {
+      "question": "tính từ và trật tự tính từ",
+      "answer": "Trật Tự Tính Từ Trong Tiếng Anh\n\nKhi có nhiều tính từ, sắp xếp theo thứ tự:\nÝ KIẾN → KÍCH THƯỚC → TUỔI → HÌNH DẠNG → MÀU SẮC → XUẤT XỨ → CHẤT LIỆU → MỤC ĐÍCH\n\nVí dụ:\n• a beautiful small old round black Japanese wooden box\n• a lovely little cat ✅\n• a big red Chinese umbrella ✅\n\n💡 Mẹo: Nhớ tắt OSASCOMP: Opinion-Size-Age-Shape-Color-Origin-Material-Purpose!"
+    },
+    {
+      "question": "cách nói giờ bằng tiếng anh",
+      "answer": "Cách Nói Giờ Bằng Tiếng Anh\n\nGIỜ CHẴN: 3:00 → It's three o'clock.\n\nGIỜ HƠN (dưới 30'):\n• 3:15 → quarter past three\n• 3:20 → twenty past three\n\nGIỜ KÉM (trên 30'):\n• 3:30 → half past three\n• 3:45 → quarter to four\n• 3:50 → ten to four\n\nĐỌC TRỰC TIẾP:\n• 3:25 → three twenty-five\n• 7:05 → seven oh five\n\n💡 Mẹo: AM = sáng (0h-12h), PM = chiều/tối (12h-24h)!"
+    },
+    {
+      "question": "số thứ tự tiếng anh",
+      "answer": "Số Thứ Tự (Ordinal Numbers) Trong Tiếng Anh\n\nĐặc biệt:\n• 1st — first\n• 2nd — second\n• 3rd — third\n\nTừ 4 trở đi: thêm TH\n• 4th — fourth, 5th — fifth, 6th — sixth\n• 8th — eighth, 9th — ninth, 12th — twelfth\n\nDùng khi: xếp hạng, ngày tháng\n• Today is March 17th.\n• She finished FIRST in the race.\n\n💡 Mẹo: Chỉ có 1st, 2nd, 3rd đặc biệt — còn lại thêm TH!"
+    },
+    {
+      "question": "cách khen ngợi bằng tiếng anh",
+      "answer": "Cách Khen Ngợi Bằng Tiếng Anh\n\nKHEN NGƯỜI:\n• You look great! — Bạn trông tuyệt vời!\n• You're so talented! — Bạn thật tài năng!\n• I'm impressed by your work.\n\nKHEN VIỆC LÀM:\n• Well done! / Great job! — Làm tốt lắm!\n• That's amazing! — Thật tuyệt vời!\n• You did a fantastic job!\n\nĐÁP LẠI LỜI KHEN:\n• Thank you! That's very kind of you.\n• Thanks, I really appreciate it.\n• I'm glad you like it.\n\n💡 Mẹo: Người Anh thường đón nhận lời khen thay vì từ chối như người Việt!"
+    },
+    {
+      "question": "động từ bất quy tắc phổ biến",
+      "answer": "Động Từ Bất Quy Tắc Phổ Biến\n\nDạng: Nguyên thể → Quá khứ → Quá khứ phân từ\n\n• go → went → gone\n• come → came → come\n• see → saw → seen\n• do → did → done\n• have → had → had\n• make → made → made\n• get → got → gotten/got\n• take → took → taken\n• give → gave → given\n• know → knew → known\n• think → thought → thought\n• say → said → said\n• write → wrote → written\n• buy → bought → bought\n• find → found → found\n\n💡 Mẹo: Học thuộc 50 động từ bất quy tắc thông dụng nhất trước!"
+    },
+    {
+      "question": "câu gián tiếp là gì",
+      "answer": "Câu Gián Tiếp (Reported Speech)\n\nKhi đổi sang câu gián tiếp, thì của động từ lùi về quá khứ:\n\n• Present Simple → Past Simple\n  'I am tired.' → He said he WAS tired.\n\n• Present Continuous → Past Continuous\n  'I am studying.' → She said she WAS STUDYING.\n\n• Present Perfect → Past Perfect\n  'I have finished.' → He said he HAD FINISHED.\n\n• Will → Would\n  'I will help.' → She said she WOULD help.\n\nĐại từ cũng thay đổi:\n• I → he/she | we → they | you → I/he/she\n\n💡 Mẹo: Chỉ lùi thì khi động từ tường thuật ở quá khứ (said, told)!"
+    },
+    {
+      "question": "cách đặt câu hỏi đuôi",
+      "answer": "Câu Hỏi Đuôi (Tag Questions)\n\nCấu trúc: Câu khẳng định + đuôi phủ định? hoặc ngược lại\n\nQuy tắc:\n• Câu khẳng định → đuôi phủ định\n• Câu phủ định → đuôi khẳng định\n\nVí dụ:\n• It's hot today, ISN'T IT?\n• She can swim, CAN'T SHE?\n• You don't like coffee, DO YOU?\n• He hasn't called, HAS HE?\n• They went home, DIDN'T THEY?\n\nĐặc biệt:\n• I am late, AREN'T I? (không dùng 'am I not' thông thường)\n\n💡 Mẹo: Đuôi câu hỏi dùng trợ động từ của câu chính — không lặp lại động từ chính!"
+    },
+    {
+      "question": "từ đồng nghĩa hay gặp",
+      "answer": "Từ Đồng Nghĩa Hay Gặp Trong Tiếng Anh\n\nThay cho GOOD:\nbig → great, fantastic, excellent, wonderful, superb\n\nThay cho BAD:\npoor → terrible, awful, dreadful, horrible\n\nThay cho HAPPY:\nglad, pleased, delighted, thrilled, overjoyed\n\nThay cho SAD:\nunhappy, miserable, depressed, gloomy, heartbroken\n\nThay cho SAID (khi viết):\nstated, mentioned, explained, argued, claimed, noted\n\nThay cho VERY:\nextremely, incredibly, remarkably, exceptionally\n\n💡 Mẹo: Dùng từ đồng nghĩa đa dạng sẽ giúp bài viết/nói chuyên nghiệp hơn!"
+    },
+    {
+      "question": "từ trái nghĩa hay gặp",
+      "answer": "Từ Trái Nghĩa Hay Gặp\n\n• happy ↔ sad/unhappy\n• hot ↔ cold\n• fast ↔ slow\n• big/large ↔ small/little\n• tall ↔ short\n• old ↔ young/new\n• strong ↔ weak\n• rich ↔ poor\n• easy ↔ difficult/hard\n• early ↔ late\n• bright ↔ dark/dim\n• love ↔ hate\n• buy ↔ sell\n• lend ↔ borrow\n• push ↔ pull\n• increase ↔ decrease\n• success ↔ failure\n• question ↔ answer\n\n💡 Mẹo: Học từ theo cặp trái nghĩa giúp nhớ cả hai từ cùng lúc!"
+    },
+    {
+      "question": "cách dùng too và enough",
+      "answer": "Cách Dùng TOO và ENOUGH\n\nTOO (quá, nhiều hơn cần thiết):\n• too + tính từ/trạng từ\n• It's too hot to work.\n• She speaks too fast for me to understand.\n• He is too young to drive.\n\nENOUGH (đủ):\n• tính từ/trạng từ + enough\n• She is old ENOUGH to vote.\n• Is the room big ENOUGH?\n• He doesn't run fast ENOUGH.\n\n• enough + danh từ\n• I don't have ENOUGH money.\n• Do we have ENOUGH time?\n\n💡 Mẹo:\n• TOO = vượt mức → kết quả tiêu cực\n• ENOUGH = vừa đủ → kết quả tốt"
+    },
+    {
+      "question": "cách dùng so và such",
+      "answer": "Phân Biệt SO và SUCH\n\nSO + tính từ / trạng từ:\n• She is SO beautiful.\n• He ran SO fast.\n• It was SO cold that I stayed home.\n\nSUCH + (a/an) + tính từ + danh từ:\n• She is SUCH a beautiful girl.\n• It was SUCH cold weather.\n• He is SUCH a kind person.\n\nCấu trúc kết quả: SO/SUCH ... THAT ...\n• It was SO hot THAT I couldn't sleep.\n• She is SUCH a good singer THAT everyone loves her.\n\n💡 Mẹo: SO đứng trước tính từ/trạng từ đơn, SUCH đứng trước cụm danh từ!"
+    },
+    {
+      "question": "câu ước với wish",
+      "answer": "Câu Ước Với WISH\n\nWISH + Past Simple (ước về hiện tại/tương lai):\n• I wish I WERE taller. (ước mình cao hơn)\n• I wish I HAD more money.\n• She wishes she COULD fly.\n\nWISH + Past Perfect (ước về quá khứ — nuối tiếc):\n• I wish I HAD STUDIED harder.\n• He wishes he HADN'T SAID that.\n• I wish I HAD GONE to the party.\n\nWISH + Would (ước ai đó làm/ngừng làm gì):\n• I wish you WOULD stop smoking.\n• She wishes he WOULD call more often.\n\n💡 Mẹo: Wish + Past → ước hiện tại | Wish + Past Perfect → tiếc quá khứ!"
+    },
+    {
+      "question": "câu nhấn mạnh với it is that",
+      "answer": "Câu Nhấn Mạnh (Cleft Sentences)\n\nCấu trúc: It is/was + [thành phần muốn nhấn mạnh] + that/who ...\n\nVí dụ:\n• John broke the window.\n  → IT WAS JOHN WHO broke the window. (nhấn mạnh chủ thể)\n  → IT WAS THE WINDOW THAT John broke. (nhấn mạnh tân ngữ)\n  → IT WAS YESTERDAY THAT John broke the window. (nhấn mạnh thời gian)\n\nDùng khi:\n• Muốn làm nổi bật một thành phần trong câu\n• Thường gặp trong văn viết trang trọng\n\n💡 Mẹo: Dùng WHO khi nhấn mạnh người, THAT khi nhấn mạnh vật/thời gian/nơi chốn!"
+    },
+    {
+      "question": "cách dùng unless",
+      "answer": "Cách Dùng UNLESS\n\nUNLESS = IF ... NOT (trừ khi, nếu không)\n\nCấu trúc: Unless + mệnh đề, mệnh đề chính\n\nVí dụ:\n• Unless you study, you will fail.\n  = If you DON'T study, you will fail.\n\n• I'll go to the party unless I'm sick.\n  = I'll go to the party if I'm NOT sick.\n\n• Unless it rains, we'll have a picnic.\n  = If it DOESN'T rain, we'll have a picnic.\n\n💡 Mẹo: Không dùng UNLESS kết hợp với NOT — sẽ bị double negative (phủ định kép)!\n✗ Unless you don't come...\n✓ Unless you come..."
+    },
+    {
+      "question": "danh từ đếm được và không đếm được",
+      "answer": "Danh Từ Đếm Được và Không Đếm Được\n\nĐẾM ĐƯỢC (Countable Nouns):\n• Có số ít/nhiều: a book / books\n• Dùng được với a/an: a cat, an apple\n• Dùng được với many, few\n• Ví dụ: table, chair, dog, city, idea\n\nKHÔNG ĐẾM ĐƯỢC (Uncountable Nouns):\n• Không có dạng số nhiều\n• Không dùng a/an trực tiếp\n• Dùng được với much, little\n• Ví dụ: water, rice, money, music, advice, information\n\nMỘT SỐ DANH TỪ ĐẶC BIỆT:\n• news — tin tức (không đếm được, chia động từ số ít)\n• furniture — đồ nội thất (không đếm được)\n• luggage/baggage — hành lý (không đếm được)\n\n💡 Mẹo: Muốn đếm danh từ không đếm được, dùng: a piece of advice, a glass of water!"
+    },
+    {
+      "question": "cách dùng each và every",
+      "answer": "Phân Biệt EACH và EVERY\n\nEACH — nhấn mạnh từng cá thể riêng lẻ (có thể dùng cho 2 trở lên):\n• Each student received a prize. (từng em)\n• She gave each of us a gift.\n• Each answer must be written clearly.\n\nEVERY — nhấn mạnh toàn bộ nhóm (dùng cho 3 trở lên):\n• Every student passed the exam. (tất cả)\n• I go jogging every morning.\n• Every seat was taken.\n\n💡 Giống nhau:\n• Cả hai đều dùng với danh từ số ít\n• Cả hai đều dùng động từ số ít\n\n💡 Mẹo: EACH = nhìn vào từng cái | EVERY = nhìn cả nhóm!"
+    },
+    {
+      "question": "cách dùng few little",
+      "answer": "Phân Biệt FEW / A FEW / LITTLE / A LITTLE\n\nFEW + danh từ đếm được số nhiều:\n• FEW: gần như không có, ít đáng lo ngại\n  Few students passed. (hầu hết trượt — tiêu cực)\n\n• A FEW: có một vài, đủ dùng\n  A few students passed. (có vài em đỗ — tích cực)\n\nLITTLE + danh từ không đếm được:\n• LITTLE: gần như không có\n  There is little hope. (gần như vô vọng — tiêu cực)\n\n• A LITTLE: có một chút, đủ dùng\n  There is a little hope. (vẫn còn chút hy vọng — tích cực)\n\n💡 Mẹo: A few/A little = vẫn còn (tốt), Few/Little = quá ít (xấu)!"
+    },
+    {
+      "question": "câu cảm thán trong tiếng anh",
+      "answer": "Câu Cảm Thán (Exclamatory Sentences)\n\nWHAT + (a/an) + tính từ + danh từ (+ S + V)!\n• What a beautiful day!\n• What an amazing performance!\n• What lovely flowers!\n• What terrible weather!\n\nHOW + tính từ/trạng từ (+ S + V)!\n• How beautiful she is!\n• How quickly he runs!\n• How surprising!\n\n💡 So sánh:\n• What a clever boy he is!\n• How clever he is!\n(Cả hai đều đúng)\n\n💡 Mẹo: WHAT + danh từ, HOW + tính từ/trạng từ!"
+    },
+    {
+      "question": "cách dùng although despite",
+      "answer": "Phân Biệt ALTHOUGH / DESPITE / IN SPITE OF\n\nALTHOUGH / EVEN THOUGH / THOUGH + mệnh đề (S + V):\n• Although it was raining, we went out.\n• Even though she was tired, she kept working.\n\nDESPITE / IN SPITE OF + danh từ / V-ing:\n• Despite the rain, we went out.\n• In spite of being tired, she kept working.\n• Despite having no money, he was happy.\n\n💡 Mẹo:\n• Although/Though → theo sau là câu đầy đủ (có S và V)\n• Despite/In spite of → theo sau là danh từ hoặc V-ing\n\nKhông được: ✗ Despite it was raining..."
+    },
+    {
+      "question": "cách dùng so that in order to",
+      "answer": "Diễn Đạt Mục Đích: SO THAT / IN ORDER TO / TO\n\nTO / IN ORDER TO + V (chủ ngữ 2 câu giống nhau):\n• I study hard TO pass the exam.\n• She woke up early IN ORDER TO catch the bus.\n• He saved money to buy a car.\n\nSO THAT + S + can/could/will/would + V (chủ ngữ có thể khác):\n• I speak slowly SO THAT you can understand.\n• She saved money SO THAT her children could study.\n• He wrote it down so that he wouldn't forget.\n\n💡 Mẹo:\n• To/In order to: ngắn gọn hơn, chủ ngữ giống nhau\n• So that: khi chủ ngữ 2 vế khác nhau, hoặc muốn nhấn mạnh"
+    },
+    {
+      "question": "cách dùng either neither both",
+      "answer": "Phân Biệt BOTH / EITHER / NEITHER\n\nBOTH (cả hai — khẳng định):\n• Both students passed. (cả hai đều đỗ)\n• I like both coffee and tea.\n• Both of them are right.\n\nEITHER (một trong hai — lựa chọn / phủ định):\n• Either day is fine for me. (ngày nào cũng được)\n• I don't like either option. (không cái nào)\n• Either you or I must go.\n\nNEITHER (không ai trong hai — phủ định cả hai):\n• Neither student passed. (cả hai đều trượt)\n• Neither of them came.\n• Neither... nor...: Neither she nor I knew the answer.\n\n💡 Mẹo: Both = cả hai (+), Either = một trong hai, Neither = không ai (-)"
+    },
+    {
+      "question": "cách dùng rather than",
+      "answer": "Cách Dùng RATHER THAN\n\nRATHER THAN = thay vì, hơn là\n\nCấu trúc 1: V + rather than + V (cùng dạng):\n• I'd rather walk than take the bus.\n• She chose to study rather than work.\n\nCấu trúc 2: Would rather + V + than + V:\n• I would rather stay home than go out.\n• He'd rather read than watch TV.\n\nCấu trúc 3: Rather than + V-ing:\n• Rather than complaining, try to find a solution.\n• Rather than giving up, she kept trying.\n\n💡 Mẹo: 'Would rather' diễn đạt sở thích/lựa chọn, 'rather than' diễn đạt sự đối lập!"
+    },
+    {
+      "question": "từ vựng chủ đề kinh tế tài chính",
+      "answer": "Từ Vựng Tiếng Anh Chủ Đề Kinh Tế / Tài Chính\n\n• inflation — lạm phát\n• interest rate — lãi suất\n• investment — đầu tư\n• stock market — thị trường chứng khoán\n• budget — ngân sách\n• profit / loss — lợi nhuận / thua lỗ\n• revenue — doanh thu\n• loan — khoản vay\n• mortgage — thế chấp\n• recession — suy thoái kinh tế\n• currency — tiền tệ\n• tax — thuế\n• export / import — xuất khẩu / nhập khẩu\n• GDP (Gross Domestic Product) — Tổng sản phẩm quốc nội\n\n💡 Mẹo: Đây là từ vựng quan trọng cho IELTS và môi trường làm việc quốc tế!"
+    },
+    {
+      "question": "từ vựng chủ đề thể thao",
+      "answer": "Từ Vựng Tiếng Anh Chủ Đề Thể Thao\n\nMÔN THỂ THAO:\n• football/soccer — bóng đá\n• basketball — bóng rổ\n• swimming — bơi lội\n• athletics — điền kinh\n• martial arts — võ thuật\n\nTHI ĐẤU:\n• tournament — giải đấu\n• championship — chức vô địch\n• score — tỷ số\n• draw/tie — hòa\n• defeat — đánh bại\n• referee — trọng tài\n• penalty — phạt đền\n• substitute — cầu thủ thay thế\n• coach — huấn luyện viên\n• spectator — khán giả\n\n💡 Mẹo: 'Play' dùng cho thể thao đồng đội, 'do' dùng cho thể thao cá nhân, 'go' dùng cho hoạt động -ing!"
+    },
+    {
+      "question": "từ vựng chủ đề nghệ thuật âm nhạc",
+      "answer": "Từ Vựng Tiếng Anh Chủ Đề Nghệ Thuật & Âm Nhạc\n\nÂM NHẠC:\n• melody — giai điệu\n• rhythm — nhịp điệu\n• lyrics — lời bài hát\n• composer — nhà soạn nhạc\n• conductor — nhạc trưởng\n• concert — buổi hòa nhạc\n• rehearsal — buổi tập\n• orchestra — dàn nhạc giao hưởng\n\nNGHỆ THUẬT:\n• sculpture — điêu khắc\n• exhibition — triển lãm\n• masterpiece — kiệt tác\n• portrait — chân dung\n• landscape — phong cảnh\n• abstract — trừu tượng\n• gallery — phòng trưng bày\n\n💡 Mẹo: 'Play' dùng khi nói về nhạc cụ: play the guitar, play the piano!"
+    },
+    {
+      "question": "cách mô tả người bằng tiếng anh",
+      "answer": "Cách Mô Tả Người Bằng Tiếng Anh\n\nNGOẠI HÌNH:\n• tall / short / medium height — cao / thấp / trung bình\n• slim / chubby / overweight — gầy / mũm mĩm / thừa cân\n• long/short/curly/straight hair — tóc dài/ngắn/xoăn/thẳng\n• blue/brown/green eyes — mắt xanh/nâu/lục\n\nTÍNH CÁCH:\n• outgoing — hướng ngoại\n• introverted — hướng nội\n• ambitious — tham vọng\n• reliable — đáng tin cậy\n• stubborn — bướng bỉnh\n• generous — hào phóng\n• patient — kiên nhẫn\n• witty — hóm hỉnh, thông minh\n\n💡 Mẹo: Khi mô tả, dùng 'She has... / He is...' thay vì chỉ liệt kê tính từ!"
+    },
+    {
+      "question": "cách diễn đạt cảm xúc bằng tiếng anh",
+      "answer": "Diễn Đạt Cảm Xúc Bằng Tiếng Anh\n\nVUI MỪNG:\n• I'm thrilled! — Tôi phấn khích lắm!\n• I'm over the moon! — Tôi vui tột đỉnh!\n• That made my day! — Ngày hôm nay của tôi thật tuyệt!\n\nBUỒN BÃ:\n• I'm heartbroken. — Tôi thật đau lòng.\n• I feel down/blue. — Tôi cảm thấy buồn.\n• I'm gutted. — Tôi thất vọng tột cùng.\n\nTỨC GIẬN:\n• I'm furious! — Tôi tức điên lên!\n• That drives me crazy! — Điều đó làm tôi điên đầu!\n• I'm fed up with... — Tôi chán ngấy...\n\nSỢ HÃI:\n• I'm terrified. — Tôi sợ lắm.\n• It gives me the creeps. — Nó làm tôi ớn lạnh.\n\n💡 Mẹo: Tránh lúc nào cũng nói 'I'm happy/sad' — dùng từ đa dạng sẽ sinh động hơn!"
+    },
+    {
+      "question": "thành ngữ về thời gian",
+      "answer": "Thành Ngữ Tiếng Anh Về Thời Gian\n\n• Once in a blue moon — Rất hiếm khi\n  I only eat fast food once in a blue moon.\n\n• In the nick of time — Vừa kịp lúc\n  We arrived in the nick of time.\n\n• Beat the clock — Làm xong trước giờ hạn\n  We need to beat the clock on this project.\n\n• Around the clock — Suốt ngày đêm\n  The hospital works around the clock.\n\n• Time flies — Thời gian trôi nhanh\n  Time flies when you're having fun.\n\n• Kill time — Giết thời gian\n  I read to kill time while waiting.\n\n💡 Mẹo: Dùng thành ngữ đúng lúc sẽ khiến bạn nghe như người bản ngữ!"
+    },
+    {
+      "question": "thành ngữ về tiền bạc",
+      "answer": "Thành Ngữ Tiếng Anh Về Tiền Bạc\n\n• Break the bank — Tốn rất nhiều tiền\n  The vacation didn't break the bank.\n\n• Cost an arm and a leg — Đắt khủng khiếp\n  That handbag costs an arm and a leg.\n\n• Penny-pincher — Người ki bo, keo kiệt\n  He's such a penny-pincher.\n\n• On a shoestring — Với ngân sách rất ít\n  They traveled Europe on a shoestring.\n\n• Make ends meet — Đủ sống, vừa đủ chi tiêu\n  It's hard to make ends meet these days.\n\n• Splash out — Chi tiêu hào phóng\n  She splashed out on a new dress.\n\n• Nest egg — Tiền tiết kiệm dự phòng\n  He has a nice nest egg for retirement.\n\n💡 Mẹo: Thành ngữ về tiền rất hay gặp trong phim và báo chí Anh/Mỹ!"
+    },
+    {
+      "question": "thành ngữ về công việc học tập",
+      "answer": "Thành Ngữ Về Công Việc & Học Tập\n\n• Hit the books — Ngồi vào học\n  I need to hit the books tonight.\n\n• Burn the midnight oil — Thức khuya học/làm việc\n  She burned the midnight oil before the exam.\n\n• Learn the ropes — Học cách làm quen với việc mới\n  It takes time to learn the ropes at a new job.\n\n• Pass with flying colors — Đỗ với kết quả xuất sắc\n  He passed the exam with flying colors.\n\n• Back to the drawing board — Làm lại từ đầu\n  The plan failed — back to the drawing board!\n\n• Go the extra mile — Nỗ lực hơn mức cần thiết\n  She always goes the extra mile for her students.\n\n💡 Mẹo: Thành ngữ này rất hữu ích khi viết luận hoặc phỏng vấn tiếng Anh!"
+    },
+    {
+      "question": "cách viết đoạn văn tiếng anh",
+      "answer": "Cách Viết Đoạn Văn Tiếng Anh Chuẩn\n\nCấu trúc đoạn văn (PEEL):\n\n📌 P — Point (Câu chủ đề):\n→ Nêu ý chính của đoạn\n'Social media has many negative effects on teenagers.'\n\n📌 E — Evidence (Bằng chứng):\n→ Số liệu, dẫn chứng, ví dụ cụ thể\n'According to a 2023 study, 60% of teens feel anxious after using Instagram.'\n\n📌 E — Explanation (Giải thích):\n→ Giải thích bằng chứng liên quan đến ý chính\n'This suggests that constant comparison with others online harms self-esteem.'\n\n📌 L — Link (Liên kết):\n→ Liên kết trở lại câu hỏi/luận điểm chính\n'Therefore, it is clear that social media poses risks to young people's mental health.'\n\n💡 Mẹo: Mỗi đoạn văn chỉ nên có MỘT ý chính!"
+    },
+    {
+      "question": "cách cải thiện kỹ năng viết tiếng anh",
+      "answer": "Cách Cải Thiện Kỹ Năng Viết Tiếng Anh\n\n1. Đọc nhiều 📖\n   → Đọc báo, sách, bài luận tiếng Anh mỗi ngày\n\n2. Viết nhật ký 📓\n   → Viết 5-10 câu/ngày về cuộc sống của bạn\n\n3. Học cấu trúc câu đa dạng ✍️\n   → Simple / Compound / Complex sentences\n\n4. Mở rộng từ vựng 🔤\n   → Tránh lặp từ, dùng từ đồng nghĩa\n\n5. Dùng từ nối 🔗\n   → However, Therefore, In addition...\n\n6. Nhờ người sửa / dùng Grammarly 🔍\n   → Học từ lỗi của mình\n\n7. Luyện viết theo đề mẫu 📝\n   → IELTS, TOEFL practice essays\n\n💡 Mẹo: Viết đều đặn quan trọng hơn viết nhiều một lúc!"
+    },
+    {
+      "question": "cách luyện nghe tiếng anh",
+      "answer": "Cách Luyện Nghe Tiếng Anh Hiệu Quả\n\n1. Bắt đầu từ mức độ phù hợp 🎯\n   → Đừng bắt đầu với podcast nói nhanh\n\n2. Xem phim/series có phụ đề tiếng Anh 🎬\n   → Vừa nghe vừa đọc phụ đề\n\n3. Shadowing 🎙️\n   → Nghe câu rồi nhái lại y chang\n\n4. Nghe podcast tiếng Anh 🎧\n   → BBC Learning English, VOA Special English\n\n5. Dictation (nghe chép) 📝\n   → Nghe rồi viết lại từng từ\n\n6. Nghe nhiều giọng khác nhau 🌍\n   → British, American, Australian, Indian accent\n\n7. Nghe trong khi làm việc khác 🏃\n   → Rửa bát, đi bộ... để não quen với tiếng Anh\n\n💡 Mẹo: Nghe 30 phút mỗi ngày đều đặn tốt hơn 3 tiếng/tuần!"
+    },
+    {
+      "question": "ielts là gì",
+      "answer": "IELTS Là Gì?\n\nIELTS = International English Language Testing System\n→ Bài thi đánh giá năng lực tiếng Anh quốc tế\n\n4 KỸ NĂNG:\n• Listening — Nghe (30 phút)\n• Reading — Đọc (60 phút)\n• Writing — Viết (60 phút)\n• Speaking — Nói (11-14 phút)\n\n2 DẠNG ĐỀ:\n• Academic — Cho mục đích học thuật, du học đại học\n• General Training — Cho visa định cư, việc làm\n\nBAND SCORE:\n• 0-9 (thường yêu cầu từ 6.0-7.0 để du học)\n\nTHỜI HẠN:\n• Kết quả có hiệu lực trong 2 năm\n\n💡 Mẹo: Luyện đề thi thật từ Cambridge IELTS books (từ quyển 1-18)!"
+    },
+    {
+      "question": "toeic là gì",
+      "answer": "TOEIC Là Gì?\n\nTOEIC = Test of English for International Communication\n→ Bài thi tiếng Anh cho môi trường làm việc quốc tế\n\nCÁC PHẦN THI:\n• Listening: 100 câu, 45 phút\n• Reading: 100 câu, 75 phút\n\nTHANG ĐIỂM:\n• 10 - 990 điểm\n• Thông thường yêu cầu 600+ cho xin việc\n• 750+ cho vị trí quản lý\n\nSO SÁNH VỚI IELTS:\n• TOEIC: tập trung vào môi trường kinh doanh/văn phòng\n• IELTS: đa dạng hơn, dùng cho du học và định cư\n\n💡 Mẹo: TOEIC tập trung vào từ vựng kinh doanh, email, hội thoại văn phòng — học nhóm từ này trước!"
+    },
+    {
+      "question": "phân biệt british và american english",
+      "answer": "Sự Khác Biệt Giữa Anh-Anh và Anh-Mỹ\n\nTỪ VỰNG KHÁC NHAU:\n• British → American\n• lift → elevator (thang máy)\n• flat → apartment (căn hộ)\n• biscuit → cookie (bánh quy)\n• petrol → gas/gasoline (xăng)\n• rubbish → garbage/trash (rác)\n• autumn → fall (mùa thu)\n• football → soccer (bóng đá)\n\nCHÍNH TẢ KHÁC NHAU:\n• colour → color\n• favourite → favorite\n• realise → realize\n• centre → center\n\nPHÁT ÂM KHÁC NHAU:\n• can't: /kɑːnt/ (Anh) vs /kænt/ (Mỹ)\n• water: /ˈwɔːtə/ (Anh) vs /ˈwɑːɾər/ (Mỹ)\n\n💡 Mẹo: Chọn một kiểu và dùng nhất quán — đừng trộn lẫn!"
+    },
+    {
+      "question": "từ đa nghĩa trong tiếng anh",
+      "answer": "Từ Đa Nghĩa (Polysemy) Trong Tiếng Anh\n\nMột số từ có nhiều nghĩa khác nhau:\n\nBATTERY:\n• pin/ắc quy: The battery is dead.\n• tấn công: He was charged with battery.\n\nBANK:\n• ngân hàng: I need to go to the bank.\n• bờ sông: We sat on the river bank.\n\nBAR:\n• quán bar: Let's go to the bar.\n• thanh/que: a bar of chocolate\n• rào cản: a bar to success\n\nFAIR:\n• công bằng: That's not fair!\n• hội chợ: a fun fair\n• sáng màu: fair skin\n\nFLIGHT:\n• chuyến bay: My flight is at 8am.\n• leo thang: a flight of stairs\n• bỏ trốn: the flight of refugees\n\n💡 Mẹo: Ngữ cảnh (context) sẽ cho bạn biết nghĩa đúng của từ!"
+    },
+    {
+      "question": "cách phát âm nguyên âm tiếng anh",
+      "answer": "Phát Âm Nguyên Âm Tiếng Anh\n\nTIẾNG ANH CÓ 20 ÂM NGUYÊN ÂM (vowel sounds):\n\nNGUYÊN ÂM ĐƠN (Monophthongs) — 12 âm:\n• /iː/ — see, tea, feet\n• /ɪ/ — sit, bit, him\n• /e/ — bed, head, said\n• /æ/ — cat, bad, man\n• /ɑː/ — car, far, heart\n• /ɒ/ — hot, dog, not (Anh)\n• /ɔː/ — saw, law, four\n• /ʊ/ — book, good, put\n• /uː/ — food, blue, too\n• /ʌ/ — cup, bus, come\n• /ɜː/ — bird, her, word\n• /ə/ — about, the, again (âm schwa)\n\n💡 Mẹo: Âm /ə/ (schwa) là âm phổ biến nhất tiếng Anh — xuất hiện trong hầu hết âm tiết không nhấn!"
+    },
+    {
+      "question": "trọng âm trong tiếng anh",
+      "answer": "Trọng Âm (Word Stress) Trong Tiếng Anh\n\nQUY TẮC CƠ BẢN:\n\n1. Danh từ 2 âm tiết → thường nhấn âm đầu:\n   TA-ble, WI-ndow, TEA-cher\n\n2. Động từ 2 âm tiết → thường nhấn âm sau:\n   be-GIN, de-CIDE, al-LOW\n\n3. Danh từ ↔ Động từ cùng철 (stress shift):\n   IM-port (n) ↔ im-PORT (v)\n   RE-cord (n) ↔ re-CORD (v)\n   OB-ject (n) ↔ ob-JECT (v)\n\n4. Từ kết thúc -tion, -sion, -ic → nhấn âm liền trước:\n   in-FOR-ma-tion, mu-SIC, e-CON-o-mic\n\n💡 Mẹo: Sai trọng âm còn khó nghe hơn sai phát âm! Tra từ điển để biết trọng âm đúng."
+    },
+    {
+      "question": "nối âm trong tiếng anh",
+      "answer": "Nối Âm (Connected Speech) Trong Tiếng Anh\n\nÂM NỐI (Linking):\nKhi từ kết thúc bằng phụ âm, từ sau bắt đầu bằng nguyên âm → nối lại:\n• 'an apple' → /ənˈæpl/ (n-apple)\n• 'turn it off' → /tɜːrnɪtɒf/\n\nÂM NỐI VỚI R (Linking R) — tiếng Anh Anh:\n• 'here and there' → /hɪərəndðeə/\n\nÂM LƯỢC (Elision) — nuốt âm:\n• 'next day' → /neksdeɪ/ (bỏ /t/)\n• 'going to' → 'gonna'\n• 'want to' → 'wanna'\n• 'have to' → 'hafta'\n\nÂM ĐỒNG HÓA (Assimilation):\n• 'don't you' → /dəʊntʃuː/ (= doncha)\n\n💡 Mẹo: Đây là lý do tại sao nghe người bản ngữ nói chuyện khó hơn trong bài thi nghe!"
+    },
+    {
+      "question": "cách viết cv tiếng anh",
+      "answer": "Cách Viết CV Tiếng Anh Chuẩn\n\nCẤU TRÚC CV:\n\n1. Personal Information — Thông tin cá nhân\n   Tên, email, số điện thoại, LinkedIn\n\n2. Personal Statement / Objective — Mục tiêu nghề nghiệp (2-3 câu)\n   'A motivated graduate seeking...'\n\n3. Work Experience — Kinh nghiệm làm việc\n   • Tên công ty, vị trí, thời gian\n   • Dùng động từ hành động: managed, developed, achieved\n\n4. Education — Học vấn\n   Trường, chuyên ngành, năm tốt nghiệp, GPA\n\n5. Skills — Kỹ năng\n   Technical skills, Languages, Soft skills\n\n6. References — Người tham khảo\n   'Available upon request'\n\n💡 Từ hay dùng trong CV:\nAchieved, Managed, Developed, Led, Improved, Increased, Reduced"
+    },
+    {
+      "question": "từ vựng phỏng vấn xin việc tiếng anh",
+      "answer": "Từ Vựng & Câu Hỏi Phỏng Vấn Tiếng Anh\n\nCÂU HỎI THƯỜNG GẶP:\n• Tell me about yourself. — Hãy giới thiệu về bản thân.\n• What are your strengths? — Điểm mạnh của bạn là gì?\n• What are your weaknesses? — Điểm yếu của bạn là gì?\n• Why do you want this job? — Tại sao bạn muốn công việc này?\n• Where do you see yourself in 5 years? — Bạn thấy mình ở đâu sau 5 năm?\n\nTRẢ LỜI THÔNG MINH:\n• I'm a team player. — Tôi làm việc tốt trong nhóm.\n• I'm a quick learner. — Tôi học hỏi nhanh.\n• I work well under pressure. — Tôi làm tốt dưới áp lực.\n• I'm passionate about... — Tôi đam mê về...\n\n💡 Dùng STAR method: Situation → Task → Action → Result!"
+    },
+    {
+      "question": "cách viết thư xin việc tiếng anh",
+      "answer": "Cách Viết Thư Xin Việc (Cover Letter) Tiếng Anh\n\nCẤU TRÚC:\n\n📌 Mở đầu:\n'I am writing to apply for the position of [tên vị trí] advertised on [nguồn].'\n'I am a [học vấn] graduate with [số năm] years of experience in [lĩnh vực].'\n\n📌 Thân bài (2 đoạn):\n• Đoạn 1: Kinh nghiệm và kỹ năng phù hợp\n'During my time at [công ty], I successfully...'\n• Đoạn 2: Tại sao bạn phù hợp với công ty này\n'I am particularly drawn to [công ty] because...'\n\n📌 Kết:\n'I would welcome the opportunity to discuss my application further.'\n'I look forward to hearing from you.'\n'Yours sincerely, [Tên]'\n\n💡 Mẹo: Cover letter nên ngắn gọn — không quá 1 trang A4!"
+    },
+    {
+      "question": "cách đọc số trong tiếng anh",
+      "answer": "Cách Đọc Số Trong Tiếng Anh\n\nSỐ CƠ BẢN:\n• 1,000 → one thousand\n• 10,000 → ten thousand\n• 100,000 → one hundred thousand\n• 1,000,000 → one million\n• 1,000,000,000 → one billion\n\nSỐ THẬP PHÂN:\n• 3.14 → three point one four\n• 0.5 → zero point five / nought point five\n\nPHÂN SỐ:\n• 1/2 → a half\n• 1/3 → a third\n• 3/4 → three quarters\n\nNĂM:\n• 1995 → nineteen ninety-five\n• 2000 → two thousand\n• 2024 → two thousand and twenty-four\n\nSỐ ĐIỆN THOẠI:\n• Đọc từng chữ số: 0123 → zero one two three\n• Số đôi: 0977 → zero nine double seven\n\n💡 Mẹo: Tiếng Anh Anh dùng 'nought' cho số 0, tiếng Anh Mỹ dùng 'zero'!"
+    },
+    {
+      "question": "tháng và ngày trong tiếng anh",
+      "answer": "Tháng và Ngày Trong Tiếng Anh\n\n12 THÁNG:\nJanuary, February, March, April, May, June,\nJuly, August, September, October, November, December\n\nCÁCH ĐỌC NGÀY:\n• American: Month/Day/Year → March 17, 2026\n• British: Day/Month/Year → 17 March 2026\n\nCÁCH NÓI:\n• March 17th → 'March the seventeenth'\n• 'On the seventeenth of March'\n\n7 NGÀY TRONG TUẦN:\nMonday, Tuesday, Wednesday, Thursday,\nFriday, Saturday, Sunday\n\nTỪ LIÊN QUAN:\n• fortnight — 2 tuần (tiếng Anh Anh)\n• decade — 10 năm\n• century — 100 năm\n• millennium — 1000 năm\n\n💡 Mẹo: Tên tháng và tên ngày luôn viết hoa trong tiếng Anh!"
+    },
+    {
+      "question": "câu hỏi về sở thích bằng tiếng anh",
+      "answer": "Câu Hỏi và Trả Lời Về Sở Thích\n\nHỎI:\n• What do you like doing in your free time?\n• What are your hobbies?\n• What kind of music/movies do you enjoy?\n• Are you into sports?\n\nTRẢ LỜI:\n• I'm really into photography. — Tôi rất mê nhiếp ảnh.\n• I'm a big fan of... — Tôi là fan cứng của...\n• I'm passionate about cooking. — Tôi đam mê nấu ăn.\n• I enjoy reading in my spare time.\n• I can't get enough of... — Tôi không thể thiếu...\n• I'm not really into sports. — Tôi không mặn mà với thể thao.\n• I used to play guitar, but not anymore.\n\n💡 Mẹo: 'Be into' và 'be keen on' là cách tự nhiên để nói về sở thích!"
+    },
+    {
+      "question": "cách từ chối lịch sự bằng tiếng anh",
+      "answer": "Cách Từ Chối Lịch Sự Bằng Tiếng Anh\n\nTỪ CHỐI LỜI MỜI:\n• I'm afraid I can't make it. — Tiếc là tôi không đến được.\n• That sounds great, but I have other plans.\n• I'd love to, but I'm busy that day.\n• Maybe next time! — Hẹn lần sau nhé!\n\nTỪ CHỐI YÊU CẦU:\n• I'm sorry, but that's not possible.\n• I'm afraid I can't help with that.\n• I'd rather not, if you don't mind.\n• That's not really my thing.\n\nTỪ CHỐI ĐỀ NGHỊ ĂN/UỐNG:\n• No, thank you. I'm fine.\n• I'm good, thanks.\n• I'll pass, but thank you.\n\n💡 Mẹo: Luôn kèm theo lý do ngắn gọn khi từ chối để lịch sự hơn!"
+    },
+    {
+      "question": "cách đồng ý và không đồng ý bằng tiếng anh",
+      "answer": "Đồng Ý và Không Đồng Ý Bằng Tiếng Anh\n\nĐỒNG Ý:\n• I agree (with you). — Tôi đồng ý.\n• Exactly! / Absolutely! / That's right!\n• I couldn't agree more. — Tôi hoàn toàn đồng ý.\n• You have a point. — Bạn có lý đó.\n• That makes sense. — Điều đó có lý.\n\nKHÔNG ĐỒNG Ý (lịch sự):\n• I'm not sure about that.\n• I see your point, but...\n• I disagree, actually.\n• I beg to differ. — Tôi không đồng ý (trang trọng)\n• With all due respect... — Với tất cả sự kính trọng...\n• That's an interesting view, but...\n\nCHỈ ĐỒNG Ý MỘT PHẦN:\n• I agree to some extent, but...\n• You're partly right, however...\n\n💡 Mẹo: Trong tiếng Anh, không đồng ý trực tiếp được coi là bình thường — miễn là lịch sự!"
+    },
+    {
+      "question": "cách hỏi giá bằng tiếng anh",
+      "answer": "Cách Hỏi và Trả Lời Về Giá Cả\n\nHỎI GIÁ:\n• How much is this? — Cái này bao nhiêu tiền?\n• How much does it cost? — Nó giá bao nhiêu?\n• What's the price of...? — Giá của... là bao nhiêu?\n• Is there a discount? — Có giảm giá không?\n• Do you have anything cheaper? — Có cái gì rẻ hơn không?\n\nMẶC CẢ:\n• That's a bit expensive. Can you lower the price?\n• Could you give me a better deal?\n• I'll take it if you knock off 10%.\n\nTRẢ TIỀN:\n• Can I pay by card? — Tôi có thể trả thẻ không?\n• Keep the change. — Khỏi thối lại.\n• Could I have a receipt? — Cho tôi xin hóa đơn.\n\n💡 Mẹo: Người Anh/Mỹ thường không mặc cả ở siêu thị, nhưng có thể thử ở chợ hoặc mua đồ cũ!"
+    },
+    {
+      "question": "cách đặt phòng khách sạn bằng tiếng anh",
+      "answer": "Cách Đặt và Check-in Khách Sạn Bằng Tiếng Anh\n\nĐẶT PHÒNG:\n• I'd like to book a room for 2 nights.\n• Do you have any rooms available?\n• I have a reservation under [tên].\n• I'd like a single/double/twin room.\n• Does the room include breakfast?\n\nCHECK-IN:\n• I'd like to check in, please.\n• Here is my passport/ID.\n• What time is check-out?\n• Could I have a room with a view?\n• Is Wi-Fi included?\n\nKHIẾU NẠI:\n• The air conditioning doesn't work.\n• There's no hot water.\n• Could I change to a different room?\n• The room is too noisy.\n\n💡 Mẹo: Luôn xác nhận lại đặt phòng trước khi đến để tránh nhầm lẫn!"
+    },
+    {
+      "question": "cách gọi điện thoại bằng tiếng anh",
+      "answer": "Cách Gọi Điện Thoại Bằng Tiếng Anh\n\nBẮT ĐẦU CUỘC GỌI:\n• Hello, this is [tên]. — Xin chào, tôi là...\n• May I speak to [tên]? — Cho tôi gặp...?\n• Is [tên] available? — [Tên] có ở đó không?\n\nKHI NGƯỜI KIA KHÔNG CÓ:\n• Could I leave a message? — Tôi có thể để lại lời nhắn không?\n• Could you ask them to call me back?\n• I'll call back later.\n\nYÊU CẦU:\n• Could you speak more slowly?\n• Could you repeat that, please?\n• I'm sorry, I couldn't catch that.\n• Let me put you on hold for a moment.\n\nKẾT THÚC:\n• Thank you for calling.\n• I'll get back to you soon.\n• Have a good day!\n\n💡 Mẹo: Trên điện thoại, 'This is...' lịch sự hơn 'I am...'!"
+    },
+    {
+      "question": "ký hiệu phiên âm ipa là gì",
+      "answer": "Ký Hiệu Phiên Âm IPA Cơ Bản\n\nIPA = International Phonetic Alphabet\n→ Hệ thống ký hiệu phát âm quốc tế\n\nPHỤ ÂM QUAN TRỌNG:\n• /θ/ — think, three (lưỡi chạm răng)\n• /ð/ — this, that (lưỡi chạm răng, rung)\n• /ʃ/ — she, fish\n• /ʒ/ — pleasure, vision\n• /tʃ/ — chair, watch\n• /dʒ/ — judge, age\n• /ŋ/ — sing, king\n• /r/ — run, right (Mỹ) / không đọc (Anh)\n\nCÁCH ĐỌC TỪ ĐIỂN:\n• think /θɪŋk/\n• beautiful /ˈbjuːtɪfl/\n• ˈ = nhấn âm chính\n• ˌ = nhấn âm phụ\n\n💡 Mẹo: Cambridge Dictionary online có phiên âm và nút nghe cả giọng Anh lẫn Mỹ — rất hữu ích!"
+    }
+  ]
+}

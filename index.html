@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Chatbot Học Tiếng Anh</title>
+  <link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+
+<div class="app">
+
+  <!-- ===== SIDEBAR LỊCH SỬ ===== -->
+  <aside class="history-sidebar">
+    <div class="sidebar-header">
+      <span class="sidebar-title">💬 Hội thoại</span>
+      <button class="new-chat-btn" onclick="newChat()" title="Tạo hội thoại mới">✏️ Mới</button>
+    </div>
+    <div class="conv-list" id="conv-list"></div>
+    <div class="sidebar-bottom">
+      <span title="Câu hỏi trong kho">📚 <span id="kb-count">0</span></span>
+      <span title="Đã dạy thêm">🧠 <span id="learned-count">0</span></span>
+      <button class="export-btn" onclick="exportKB()" title="Xuất knowledge_base.json">💾</button>
+    </div>
+  </aside>
+
+  <!-- ===== KHUNG CHAT CHÍNH ===== -->
+  <div class="chat-container">
+
+    <div class="chat-header">
+      <div class="bot-info">
+        <div class="bot-avatar">🐱</div>
+        <div class="bot-meta">
+          <h3 id="chat-title">AI Học Tiếng Anh</h3>
+          <span class="status-dot"></span><span class="status-text">Trực tuyến</span>
+        </div>
+      </div>
+      <div class="header-actions">
+        <button class="icon-btn" onclick="renameChat()" title="Đổi tên">✏️</button>
+        <button class="icon-btn danger" onclick="deleteCurrentChat()" title="Xóa hội thoại này">🗑️</button>
+      </div>
+    </div>
+
+    <!-- GỢI Ý NHANH -->
+    <div class="quick-chips">
+      <button class="chip" onclick="quickSend('xin chào')">👋 Chào bot</button>
+      <button class="chip" onclick="quickSend('bạn có thể làm gì')">🤖 Bot làm gì?</button>
+      <button class="chip" onclick="quickSend('thì hiện tại đơn là gì')">📌 Thì HTĐ</button>
+      <button class="chip" onclick="quickSend('thì hiện tại hoàn thành là gì')">✅ Thì HTHT</button>
+      <button class="chip" onclick="quickSend('thì quá khứ đơn là gì')">⏪ Thì QKĐ</button>
+      <button class="chip" onclick="quickSend('thì quá khứ tiếp diễn là gì')">🔄 Thì QKTD</button>
+      <button class="chip" onclick="quickSend('thì tương lai đơn là gì')">🔮 Thì TLĐ</button>
+      <button class="chip" onclick="quickSend('be going to dùng khi nào')">🗓️ Be going to</button>
+      <button class="chip" onclick="quickSend('sự khác nhau giữa since và for')">⏱️ Since vs For</button>
+      <button class="chip" onclick="quickSend('câu bị động là gì')">🔁 Câu bị động</button>
+      <button class="chip" onclick="quickSend('câu điều kiện loại 1 là gì')">1️⃣ ĐK Loại 1</button>
+      <button class="chip" onclick="quickSend('câu điều kiện loại 2 là gì')">2️⃣ ĐK Loại 2</button>
+      <button class="chip" onclick="quickSend('câu điều kiện loại 3 là gì')">3️⃣ ĐK Loại 3</button>
+      <button class="chip" onclick="quickSend('mệnh đề quan hệ là gì')">🔗 Mệnh đề QH</button>
+      <button class="chip" onclick="quickSend('cách dùng mạo từ a an the')">📖 Mạo từ</button>
+      <button class="chip" onclick="quickSend('phân biệt do và make')">⚡ Do vs Make</button>
+      <button class="chip" onclick="quickSend('phân biệt say và tell')">💬 Say vs Tell</button>
+      <button class="chip" onclick="quickSend('phrasal verb phổ biến')">🧩 Phrasal Verbs</button>
+      <button class="chip" onclick="quickSend('thành ngữ tiếng anh thông dụng')">🌟 Thành ngữ</button>
+      <button class="chip" onclick="quickSend('từ vựng chủ đề công việc')">💼 Từ vựng CV</button>
+      <button class="chip" onclick="quickSend('từ vựng chủ đề du lịch')">✈️ Từ vựng DL</button>
+      <button class="chip" onclick="quickSend('từ vựng chủ đề sức khỏe')">🏥 Sức khỏe</button>
+      <button class="chip" onclick="quickSend('cách phát âm đuôi ed')">🔊 Phát âm -ED</button>
+      <button class="chip" onclick="quickSend('cách phát âm đuôi s')">🔊 Phát âm -S</button>
+      <button class="chip" onclick="quickSend('giới từ chỉ thời gian at in on')">🕐 Giới từ TG</button>
+      <button class="chip" onclick="quickSend('cách hỏi đường bằng tiếng anh')">🗺️ Hỏi đường</button>
+      <button class="chip" onclick="quickSend('cách viết email tiếng anh')">📧 Viết Email</button>
+      <button class="chip" onclick="quickSend('cách xin lỗi bằng tiếng anh')">🙏 Xin lỗi</button>
+      <button class="chip" onclick="quickSend('so sánh hơn và so sánh nhất')">📊 So sánh</button>
+      <button class="chip" onclick="quickSend('cách học từ vựng hiệu quả')">💡 Học từ vựng</button>
+      <button class="chip" onclick="quickSend('mẹo làm bài thi tiếng anh')">📝 Mẹo thi</button>
+      <button class="chip" onclick="quickSend('ielts là gì')">🎯 IELTS</button>
+      <button class="chip" onclick="quickSend('toeic là gì')">📋 TOEIC</button>
+    </div>
+
+    <div class="chat-messages" id="messages"></div>
+
+    <!-- TEACH BOX -->
+    <div class="teach-box" id="teach-box">
+      <p class="teach-label">🤔 Bot chưa biết câu này! Bạn có muốn dạy bot không?</p>
+      <textarea id="teach-input" placeholder="Nhập câu trả lời để dạy bot..."></textarea>
+      <div class="teach-actions">
+        <button class="teach-save" onclick="saveNewAnswer()">💾 Lưu & dạy bot</button>
+        <button class="teach-skip" onclick="skipTeach()">Bỏ qua</button>
+      </div>
+    </div>
+
+    <div class="chat-input-area">
+      <input type="text" id="user-input" placeholder="Hỏi về tiếng Anh..." onkeydown="handleKey(event)"/>
+      <button id="send-btn" class="send-btn" onclick="sendMessage()">➤</button>
+    </div>
+
+  </div>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
