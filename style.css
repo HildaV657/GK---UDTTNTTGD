@@ -1,7 +1,7 @@
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; font-family: 'Segoe UI', sans-serif; }
 
 body {
-  background-image: url('picture/Gemini_Generated_Image_xqwledxqwledxqwl.png');
+  background-image: url('/Gemini_Generated_Image_xqwledxqwledxqwl.png');
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
